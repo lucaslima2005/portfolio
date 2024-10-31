@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-form input,
+#contact-form textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#theme-toggle {
+    margin: 10px 0;
+}
+
+.dark-theme {
+    background-color: #1a1a1a;
+    color: #f4f4f4;
+}
+
+.dark-theme header {
+    background: #444;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+}
+.profile-img {
+    width: 150px; 
+    height: auto; 
+    border-radius: 50%; 
+    margin-right: 20px; 
+}
+
+.profile {
+    display: flex;  
+    align-items: center;
+}
+
+.tecnologia {
+
+    display: flex;  
+    align-items: center;
+
+
+}
+
+.java {
+
+
+
+    display: flex;  
+    align-items: center;
+
+}
